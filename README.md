@@ -1,5 +1,5 @@
 ### Ball Maze Game using Java Swing
-Subject and Term, University of Northampton
+Problem Solving and Programming Term II, University of Northampton
 
 <a href = "https://github.com/DiwasLamsal/SwingBallMaze/blob/master/diwas-lamsal-18406547-technical-report-PSP.pdf" target="_blank"> Documentation </a> | <a href = "https://github.com/DiwasLamsal/SwingBallMaze/tree/master/main" target="_blank"> Source Code </a>
 
